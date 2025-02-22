@@ -119,7 +119,7 @@
                     <p v-if="notifyType === 'w'">{{notification?.text}}</p>
                 </div>
             </div>
-            <audio src="./system/audios/notification.mp3" id="notification-sound" autoplay></audio>
+            <audio src="./system/audios/notification.mp3" id="notification-sound"></audio>
             `,
             props: ["notification"],
             emits: ["notificationsShift", "navigateTo", "setCloneMode"],
@@ -777,8 +777,8 @@
                             <img src="./system/icons/others/end-call.png">
                         </div>
                     </div>
-                    <audio src="./system/audios/call.mp3" type="audio/mpeg" id="msg-sound" autoplay></audio>
-                    <audio v-if="callEnded" src="./system/audios/end-call.mp3" type="audio/mpeg" id="msg-sound" autoplay></audio>
+                    <audio src="./system/audios/call.mp3" type="audio/mpeg" id="msg-sound" ></audio>
+                    <audio v-if="callEnded" src="./system/audios/end-call.mp3" type="audio/mpeg" id="msg-sound" ></audio>
                 </div>
             </div>
             `,
@@ -1422,7 +1422,7 @@
                     <RenpyChoiceMenu v-if="choices.length" :choices="choices" @jump="jumpNode"/>
                     <Alarm :storyNodeIndex="storyNodeIndex" :storyNodes="storyNodes" :storyNodePath="storyNodePath" :canAdvance="nextStory" v-if="showAlarm" @setShowAlarm="setShowAlarm" @advanceTime="advanceTime" />
                     <DialogueBox v-if="dialogueBoxContent !== null" :currentEnvStory="currentEnvStory" :currentCharStory="currentCharStory" :content="dialogueBoxContent" :characters="characters" @advanceStory="advanceStory" @setDialogueBox="setDialogueBox"/>
-                    <audio v-if="soundSrc" :src="soundSrc" type="audio/mpeg" id="msg-sound" autoplay loop></audio>
+                    <audio v-if="soundSrc" :src="soundSrc" type="audio/mpeg" id="msg-sound" loop></audio>
                 </div>
             `,
             data() {
