@@ -1819,7 +1819,7 @@ pois traga ela aqui para o nosso prazer
 @ cuide bem dela
 pode deixar
 eu tenho um presentinho especial para ela
-!video /cap20/01.mov
+!video /cap20/01.mp4
 ela chupa como uma profissional
 meu namorado está amando
 @ me deixa ver ?
@@ -1827,11 +1827,11 @@ claro
 !video /cap20/02.mov
 agora eu quero arrombar ela com o meu cintaralho
 a bucetinha dela está molhadinha, pronta para ser fodida
-!video /cap20/03.mov
+!video /cap20/03.mp4
 @ acho que ela gosta mais de uma rola de verdade
 concordo
 vou liberar ela para o meu namorado fuder
-!video /cap20/04.mov
+!video /cap20/04.mp4
 @ delicia
 mas acho que ainda dá para melhorar
 acho que podemos preencher ela totalmente
