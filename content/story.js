@@ -1507,7 +1507,7 @@ geral quer comer o cu dela
 pode ?
 @ pode sim
 @ enche todos os buracos dela
-!video /cap17/15.mov
+!video /cap17/15.mp4
 gostoso né?
 @ demais
 tem muito pau aqui
